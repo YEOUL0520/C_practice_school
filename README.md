@@ -1,6 +1,6 @@
 # C_practice_school
-학년 : 1학년
+grade : 1st
 
-교과목 : 컴퓨터 프로그래밍 및 실습
+subject : Computer programming and practice
 
-과제와 강의 연습문제를 프로그래밍했던 파일들입니다.
+These files are for assignments and test-pratice.
