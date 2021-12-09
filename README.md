@@ -1,6 +1,6 @@
 # C_practice_school
-grade : 1st
+Grade : 1st
 
-subject : Computer programming and practice
+Subject : Computer programming and practice
 
 These files are for assignments and test-pratice.
